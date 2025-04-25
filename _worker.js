@@ -13,11 +13,15 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://api.xmancdn.net/osubscribe.php?sid=106223&token=6j6f5tNJFqcl
-https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=f25c35b768f3e2ffb39d9c746ded563c
-https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=bf548e010d97bba5b729bac471cf26b7
-https://flztjc.com/link/SdS0HTOePiNjphoS?trojan=1
+https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
+https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
+https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 `
+
 
 let urls = [];
 let subConverter = "SUBAPI.cmliussss.net"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
