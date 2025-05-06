@@ -13,9 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://api.xmancdn.net/osubscribe.php?sid=106223&token=6j6f5tNJFqcl
-https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=f25c35b768f3e2ffb39d9c746ded563c
-https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=bf548e010d97bba5b729bac471cf26b7
+https://push.cauenvao.click/api/v1/client/subscribe?token=924a2809b6e6d073b080673a006cd477
 https://flztjc.com/link/SdS0HTOePiNjphoS?trojan=1
 `
 
